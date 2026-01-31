@@ -86,9 +86,14 @@ This model delivered the best performance.
 # Project Structure
 
 California-House-Price/
-│── .gitignore│── Clifornia.ipynb
+│── .gitignore
+
+│── Clifornia.ipynb
+
 │── README.md
+
 │── housing.csv
+
 │── requirements.txt
 
 
@@ -122,8 +127,14 @@ Open using either jupyter notebook or visual code studio
 ## Libraries Used
 
 -Numpy==2.4.1
+
 -Pandas==3.0.0
+
 -Matplotlib==3.10.8
+
 -Seaborn==0.13.2
+
 -Plotly==6.5.2
+
 -Scikit-learn==1.8.0
+

@@ -85,7 +85,8 @@ This model delivered the best performance.
 
 # Project Structure
 
-California-House-Price/
+California-House-Price-Regression Project/
+
 │── .gitignore
 
 │── Clifornia.ipynb

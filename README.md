@@ -85,7 +85,7 @@ This model delivered the best performance.
 
 # Project Structure
 
-project/
+California-House-Price/
 │── .gitignore│── Clifornia.ipynb
 │── README.md
 │── housing.csv
@@ -97,6 +97,7 @@ project/
 Clone the repository:
 
 $ git clone https://github.com/yourusername/California-House-Price-Regression.git
+
 $ cd California-House-Price-Regression
 
 ### Create a virtual environment
@@ -120,9 +121,9 @@ Open using either jupyter notebook or visual code studio
 
 ## Libraries Used
 
-numpy==2.4.1
-pandas==3.0.0
-matplotlib==3.10.8
-seaborn==0.13.2
-plotly==6.5.2
-scikit-learn==1.8.0
+-Numpy==2.4.1
+-Pandas==3.0.0
+-Matplotlib==3.10.8
+-Seaborn==0.13.2
+-Plotly==6.5.2
+-Scikit-learn==1.8.0

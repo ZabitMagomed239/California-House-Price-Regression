@@ -86,8 +86,7 @@ This model delivered the best performance.
 # Project Structure
 
 project/
-│── .gitignore
-│── Clifornia.ipynb
+│── .gitignore│── Clifornia.ipynb
 │── README.md
 │── housing.csv
 │── requirements.txt

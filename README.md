@@ -26,6 +26,7 @@ Random Forest Regressor
 
 The best-performing model was the default Random Forest Regressor, which achieved a score of 0.8162.
 
+
 # Dataset Information
 
 Source: California Housing Dataset
@@ -36,7 +37,7 @@ Columns: 10
 
 Target variable: median_house_value
 
-Key features include:
+## Key features include:
 
 longitude
 
@@ -84,12 +85,17 @@ This model delivered the best performance.
 
 # Project Structure
 
-project/
-│── Clifornia.ipynb
-│── housing.csv
-│── requirements.txt
+California-House-Price-Regression Project/
+
 │── .gitignore
+
+│── Clifornia.ipynb
+
 │── README.md
+
+│── housing.csv
+
+│── requirements.txt
 
 
 # Installation
@@ -97,34 +103,39 @@ project/
 Clone the repository:
 
 $ git clone https://github.com/yourusername/California-House-Price-Regression.git
+
 $ cd California-House-Price-Regression
 
-## Create a virtual environment
+### Create a virtual environment
 $ python -m venv .venv
 
-## Activate the virtual environment
+### Activate the virtual environment
 # Windows
 $ .venv\Scripts\activate
 
-# macOS / Linux
+### macOS / Linux
 $ source .venv/bin/activate
 
-## Deactivate the environment
+### Deactivate the environment
 $ deactivate
 
-
-
-Install dependencies:
+### Install dependencies:
 
 $ pip install -r requirements.txt
 
 Open using either jupyter notebook or visual code studio
 
-Libraries Used
+## Libraries Used
 
-numpy==2.4.1
-pandas==3.0.0
-matplotlib==3.10.8
-seaborn==0.13.2
-plotly==6.5.2
-scikit-learn==1.8.0
+-Numpy==2.4.1
+
+-Pandas==3.0.0
+
+-Matplotlib==3.10.8
+
+-Seaborn==0.13.2
+
+-Plotly==6.5.2
+
+-Scikit-learn==1.8.0
+

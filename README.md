@@ -102,7 +102,7 @@ California-House-Price-Regression Project/
 
 Clone the repository:
 
-$ git clone https://github.com/yourusername/California-House-Price-Regression.git
+$ git clone https://github.com/ZabitMagomed239/California-House-Price-Regression
 
 $ cd California-House-Price-Regression
 

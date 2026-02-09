@@ -73,13 +73,9 @@ Feature-target relationships
 
 # Modeling Approach
 
-The following models were implemented and evaluated:
+The below model was implemented and evaluated:
 
-1. Linear Regression
-
-Used as a baseline regression model.
-
-2. Random Forest Regressor (default parameters)
+1. Random Forest Regressor (default parameters)
 
 This model delivered the best performance.
 
